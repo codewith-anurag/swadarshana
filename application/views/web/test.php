@@ -1,0 +1,1 @@
+<?php echo $service["short_description"]; ?>
